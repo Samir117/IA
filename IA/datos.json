@@ -1,0 +1,1 @@
+[{"id": 1, "usuario": "samir", "cantidad_de_nodos": 2, "cantidad_de_rutas": 2, "nodo_inicial": "A", "nodo_final": "C", "rutas": [["A", "C"], ["A", "B", "C"]], "ruta_mayor": ["A", "B", "C"], "ruta_menor": ["A", "C"], "ruta_igual": []}]
